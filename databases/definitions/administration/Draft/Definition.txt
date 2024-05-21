@@ -1,0 +1,9 @@
+In a general sense, "administration" refers to the process of managing operations within an organization. This can include tasks such as planning, organizing, staffing, directing, and controlling organizational efforts to achieve stated objectives.
+
+In a business context, "administration" often refers to the activities associated with running a company, such as management, governance, and the implementation of business policies. For example, a business administrator might oversee the day-to-day operations of a company, manage teams, set strategic goals, and ensure the company is meeting its targets.
+
+In a programming context, "administration" usually refers to system or network administration. This involves managing and maintaining a computer system or network, ensuring its availability, security, and performance. For example, a system administrator might be responsible for setting up hardware, installing and configuring software and servers, managing network resources, and troubleshooting technical issues.
+
+The term "administration" has Latin roots, from the word 'administratio', meaning a direction or management. In the 18th century, it began to be used in a public service context, referring to the management of public affairs. In the 20th century, with the rise of businesses and corporations, the term started to be used in a business context. With the advent of computers and networks, "administration" also began to be used in a programming or IT context.
+
+Please note that this is a brief and simplified history and definition of the term "administration". The term can have different meanings and connotations in different contexts.

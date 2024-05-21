@@ -1,0 +1,9 @@
+jamesdanielmarrsritchey: Define "agent" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, an "agent" is an entity that acts on behalf of another entity. For example, a travel agent books travel arrangements on behalf of their clients.
+
+In a business context, an agent is a person or entity that is authorized to act on behalf of a business or individual in commercial transactions or negotiations. For example, a real estate agent acts on behalf of a seller or buyer in property transactions.
+
+In a programming context, an agent can refer to a piece of software that performs tasks on behalf of a user or another program. For example, a web crawler is an agent that systematically browses the web to index information.
+
+The term "agent" has its roots in Latin, from the word "agens" which means "a person who is doing something". In the 15th century, it was used in English to refer to someone who performs an action. The use of the term in a business context dates back to the 19th century, while its use in a programming context began in the late 20th century with the advent of agent-oriented programming.

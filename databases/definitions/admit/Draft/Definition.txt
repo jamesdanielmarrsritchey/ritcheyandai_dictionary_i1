@@ -1,0 +1,5 @@
+In a general sense, "admit" means to confess or acknowledge something as true or valid. For example, "He admitted that he made a mistake."
+
+In a business context, "admit" often refers to accepting someone into a group or organization. For example, "The company admitted 10 new members into its partnership."
+
+In a programming context, "admit" isn't a standard term. However, it could be used in the sense of allowing or accepting certain conditions or inputs. For example, "The function admits only positive integers as arguments."

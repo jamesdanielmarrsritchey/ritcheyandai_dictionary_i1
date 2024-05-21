@@ -1,0 +1,14 @@
+jamesdanielmarrsritchey: Define "almost" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "almost" is an adverb that means "nearly" or "not quite". For example, "I almost finished the book."
+
+In a business context, "almost" can refer to a goal or target that was nearly achieved but not quite. For example, "We almost reached our sales target for this quarter."
+
+In a programming context, "almost" can refer to a condition or state that is nearly but not exactly met. For example, in floating point comparisons, due to precision issues, we often check if the absolute difference between two numbers is less than a small epsilon, which can be considered as "almost equal". 
+
+```python
+def almost_equal(x, y, epsilon=1e-7):
+    return abs(x - y) < epsilon
+```
+
+The term "almost" comes from the Old English "eallmǣst" which means "for the most part". It has been used in the English language since the 14th century. In programming, the concept of "almost" as in "almost equal" has likely been in use since the advent of floating point arithmetic, which was first introduced in computers by IBM in the 1950s.

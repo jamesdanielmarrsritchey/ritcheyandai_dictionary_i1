@@ -1,0 +1,3 @@
+jamesdanielmarrsritchey: Why are websites often supported by advertisements?
+
+GitHub Copilot: Websites are often supported by advertisements because it provides a source of revenue for the website owner. This revenue helps cover the costs of running the website, such as server costs, maintenance, content creation, and staff salaries. It also allows many websites to offer their content for free to users, as the costs are offset by the income from advertisements.

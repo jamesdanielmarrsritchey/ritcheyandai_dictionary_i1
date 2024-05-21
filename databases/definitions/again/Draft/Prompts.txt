@@ -1,0 +1,14 @@
+jamesdanielmarrsritchey: Define "again" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "again" is an adverb that means another time; once more. It's used when something is repeating or returning to a previous state or condition. For example, "I need to run the race again."
+
+In a business context, "again" could refer to the repetition of a process or task. For example, if a project or product launch didn't go as planned, a team might have to "do it again," meaning to repeat the process with the aim of improving the outcome.
+
+In a programming context, "again" often refers to the concept of loops or recursion, where a certain block of code is executed repeatedly. For example, in a for loop, the code inside the loop is executed "again" for a certain number of times or until a certain condition is met.
+
+```python
+for i in range(5):
+    print("Hello, World!")  # This line is executed again and again, 5 times in total.
+```
+
+The term "again" comes from Old English "onginnan" which means 'to begin'. In Middle English, it became "agen" or "agenne" with the meaning of 'back, in the opposite direction, to a former place or condition'. Over time, it evolved into the modern English "again". The usage of "again" in the context of repetition has been prevalent in all these stages of English language evolution.

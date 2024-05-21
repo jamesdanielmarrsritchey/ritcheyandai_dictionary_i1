@@ -1,0 +1,11 @@
+jamesdanielmarrsritchey: Define "always" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "always" is an adverb that refers to something happening at all times, or on all occasions. For example, "She always arrives on time."
+
+In a business context, "always" often refers to a standard of service or quality that a company aims to maintain consistently. For example, a company might say, "We always strive to provide excellent customer service." This means that at all times, in every interaction, they aim to provide a high level of service.
+
+In a programming context, "always" can refer to a condition that is continuously true. For example, in a loop that runs "while always true", the loop will continue indefinitely until it's explicitly stopped or the program ends. In hardware description languages like VHDL or Verilog used in digital circuit design, "always" is a keyword used to describe sensitivity list or conditions upon which certain actions are to be taken.
+
+The term "always" originates from Old English "ealne weg" which means "all the way." Over time, it evolved into the Middle English "alway" and then into the modern English "always."
+
+Please note that this is a simplified explanation and the term "always" can have different nuances and interpretations in different contexts.

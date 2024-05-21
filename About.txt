@@ -4,13 +4,14 @@
 
 Name: Ritchey&AI Dictionary
 Implementation: 1
-Version: 1
-Long Identifier: Ritchey&AI Dictionary i1 v1
-Short Identifier: R&AIDi1v1
+Version: 2
+Long Identifier: Ritchey&AI Dictionary i1 v2
+Short Identifier: R&AIDi1v2
 Description: A dictionary of terms designed to be used as a basis for generating human-friendly dictionaries in other file formats.
 History:
  - Project started May 21, 2024.
  - Version 1 completed May 21, 2024.
+ - Version 2 completed May 21, 2024.
 Author: James Daniel Marrs Ritchey
 License: None; all rights reserved.
 Notes:

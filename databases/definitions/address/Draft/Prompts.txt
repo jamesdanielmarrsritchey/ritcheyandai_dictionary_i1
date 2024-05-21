@@ -1,0 +1,9 @@
+jamesdanielmarrsritchey: Define "address" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, an "address" refers to the specific location of a place or an individual. It can be a physical location, like a house or a building, or a digital location, like an email address. For example, "123 Main St, Anytown, USA" or "john.doe@example.com".
+
+In a business context, an "address" often refers to the location of a business or its branches. It can also refer to the location where a business is registered for legal purposes. For example, the headquarters of Microsoft is at "One Microsoft Way, Redmond, WA 98052".
+
+In a programming context, an "address" refers to a specific location in memory where a value is stored. Each byte of memory in a computer has a unique address. For example, in C++, you might have a pointer `int* p` that holds the address of an integer.
+
+The term "address" comes from the Latin "ad" (to) and "directus" (straight), and it originally referred to the directions given on a letter for its delivery. In the context of computing, it has been used since the early days of programmable machines, when programmers had to manually manage the memory locations where data was stored.

@@ -1,0 +1,9 @@
+In a general sense, "also" is an adverb used to indicate that something is in addition to something else. For example, "I like to play football, and I also like to swim."
+
+In a business context, "also" can be used to indicate additional responsibilities or roles. For example, "John is the CEO of the company, but he also serves as the Chief Financial Officer."
+
+In a programming context, "also" doesn't have a specific meaning, but it's often used in documentation or comments to indicate additional functionality or behavior. For example, "This function sorts the array, but it also removes any duplicate entries."
+
+The term "also" comes from Old English "eallswa", which means "just as, even as, as if, so as". It has been used in English since the Old English period (c. 450–1150 AD).
+
+Please note that this is a general explanation and the term "also" might have different meanings in different contexts.

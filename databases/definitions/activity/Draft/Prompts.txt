@@ -1,0 +1,22 @@
+jamesdanielmarrsritchey: Define "activity" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, an "activity" refers to a task or a series of tasks that are undertaken to achieve a particular outcome. For example, reading a book, playing a sport, or cooking a meal can all be considered activities.
+
+In a business context, an "activity" often refers to a specific task that needs to be completed as part of the day-to-day operations of the business. This could include activities such as processing orders, manufacturing products, or providing customer service. The concept of "activity" in business has been further developed into "Activity-Based Costing" (ABC), a methodology that identifies activities in an organization and assigns the cost of each activity to all products and services according to the actual consumption by each.
+
+In a programming context, an "activity" can refer to a component of an application that provides a user interface for the user to interact with. For example, in Android development, an Activity is a single, focused thing that the user can do. It represents a single screen with a user interface. The concept of "activity" in Android was introduced in 2008 when the first version of Android was released.
+
+Please note that the term "activity" can have different meanings in different programming contexts. For example, in the context of workflow systems or business process modeling, an "activity" might refer to a step in a process.
+
+```java
+// Example of an Activity in Android
+public class MainActivity extends Activity {
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+    }
+}
+```
+
+In this example, `MainActivity` is an activity that is created when the application starts. The `onCreate` method sets up the initial state of the activity, including the user interface layout.

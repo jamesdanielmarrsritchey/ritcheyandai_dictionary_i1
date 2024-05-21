@@ -1,0 +1,24 @@
+jamesdanielmarrsritchey: Define "act" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "act" refers to the process of doing something. For example, a person might act to solve a problem or to achieve a goal.
+
+In a business context, "act" often refers to taking a specific action or making a decision in order to achieve a business objective. For example, a business might act to increase sales by launching a new marketing campaign.
+
+In a programming context, "act" often refers to a function or method performing a specific task. For example, a function might act to sort a list of numbers in ascending order.
+
+The term "act" comes from the Latin word "actum", which means "a thing done". It has been used in English since the 14th century. In the context of programming, the use of the term "act" to refer to functions or methods performing tasks likely comes from the idea of these functions or methods "doing" something or "acting" on data.
+
+Here are some examples:
+
+General: "I need to act quickly to fix this problem."
+
+Business: "Our company needs to act on the latest market trends."
+
+Programming (Python):
+```python
+def act_on_list(my_list):
+    # This function acts on a list by sorting it in ascending order
+    return sorted(my_list)
+```
+
+In this Python example, the function `act_on_list` acts on the input list by sorting it.

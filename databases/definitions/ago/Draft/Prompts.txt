@@ -1,0 +1,19 @@
+jamesdanielmarrsritchey: Define "ago" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "ago" is a term used to describe a period of time that has passed since a certain event. For example, "I ate breakfast two hours ago" means that the event of eating breakfast occurred two hours in the past.
+
+In a business context, "ago" is often used in financial and performance reports to compare current results with those of a previous period. For example, a company might say "Our profits are up 20% from a year ago", meaning that the current profits are 20% higher than they were at the same time the previous year.
+
+In a programming context, "ago" is often used in date and time calculations. Many programming languages have built-in functions or libraries that can calculate the time "ago" from a given timestamp. For example, in Python, you can use the datetime library to calculate the time ago:
+
+```python
+from datetime import datetime, timedelta
+
+def time_ago(n):
+    time = datetime.now() - timedelta(minutes=n)
+    return time
+
+print(time_ago(60))  # prints the datetime for 60 minutes ago
+```
+
+The term "ago" comes from the Old English word "agan", which means "passed". It has been used in the English language since at least the 14th century. In programming, the concept of calculating time "ago" has likely been around since the early days of computer science, as it's a fundamental part of many algorithms and systems.

@@ -1,0 +1,5 @@
+In a general sense, "against" is a preposition used to indicate opposition or resistance. For example, "He competed against his rival in the race."
+
+In a business context, "against" can be used to describe competition or comparison. For example, "Our sales this quarter performed well against our projections."
+
+In a programming context, "against" is often used when talking about testing or checking conditions. For example, "The input was validated against the predefined schema." It can also be used when describing compatibility, as in "This software runs against the latest version of the operating system."

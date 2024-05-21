@@ -1,0 +1,24 @@
+In a general sense, "age" refers to the length of time that an individual or object has existed. For example, a person's age is the number of years they have lived since their birth.
+
+In a business context, "age" can refer to the length of time a company has been in operation, the age of its assets, or the age of its accounts receivable. For example, a company might be 50 years old, meaning it was founded 50 years ago. An asset's age might be 5 years, meaning it was acquired 5 years ago. The age of accounts receivable refers to the length of time an invoice has been outstanding. For example, if an invoice was issued 30 days ago and has not been paid, it is 30 days old.
+
+In a programming context, "age" often refers to the length of time since a particular event in a system or application, such as the creation of a file or the last modification of a data record. For example, in a file system, a file's age might be determined by its creation date or last modification date. In a database, a record's age might be determined by the timestamp of its last update.
+
+Here are some examples in code:
+
+```python
+# Python: Calculate a person's age
+from datetime import date
+
+birth_date = date(1990, 1, 1)
+today = date.today()
+age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
+print(age)
+```
+
+```sql
+-- SQL: Calculate the age of a record
+SELECT DATEDIFF(day, last_updated, GETDATE()) AS record_age
+FROM my_table
+WHERE id = 123
+```

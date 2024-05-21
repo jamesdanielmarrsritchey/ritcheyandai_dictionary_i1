@@ -1,0 +1,9 @@
+jamesdanielmarrsritchey: Define "agency" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "agency" refers to the capacity of an individual or entity to act independently and make their own free choices. For example, a person has the agency to decide what they want to eat for breakfast.
+
+In a business context, "agency" often refers to a relationship where one party, the agent, is authorized to act on behalf of another party, the principal, in business dealings with third parties. For example, a real estate agent acts on behalf of a homeowner to sell their house.
+
+In a programming context, "agency" can refer to the ability of a software agent or system to operate independently and perform tasks without constant user input. For example, a web crawler has the agency to navigate and index websites without human intervention.
+
+The term "agency" originates from the Latin word "agens" which means "doing" or "performing". In the 15th century, it was used in English to refer to "active operation". In the 19th century, it began to be used in a business context to refer to a business that was a means or instrumentality. In the late 20th century, with the advent of computer programming, it began to be used to refer to software agents that could operate independently.

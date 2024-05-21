@@ -1,0 +1,26 @@
+jamesdanielmarrsritchey: Define "air" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "air" refers to the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.
+
+In a business context, "air" can refer to a sense of openness or transparency. For example, a company might say it wants to "clear the air" by addressing rumors or misconceptions about its operations. It can also refer to something that is not tangible or concrete, such as "air time" in broadcasting where the product is the time slot itself, or "air rights" in real estate where the legal rights to the space above a property are sold or leased.
+
+In a programming context, "AIR" is an acronym for Adobe Integrated Runtime, a platform for building rich Internet applications using Adobe Flash, Adobe Flex, HTML, and Ajax, that can be run as desktop applications. Adobe AIR was first introduced in 2008 and allowed developers to create new web applications or convert existing ones into standalone applications. However, Adobe discontinued the support for AIR in 2020, and it's now managed by Harman International.
+
+Here's an example of an Adobe AIR application in ActionScript:
+
+```ActionScript
+package {
+    import flash.display.Sprite;
+    import flash.text.TextField;
+
+    public class HelloWorld extends Sprite {
+        public function HelloWorld() {
+            var textField:TextField = new TextField();
+            textField.text = "Hello, World!";
+            addChild(textField);
+        }
+    }
+}
+```
+
+This simple Adobe AIR application would display the text "Hello, World!" on the screen.

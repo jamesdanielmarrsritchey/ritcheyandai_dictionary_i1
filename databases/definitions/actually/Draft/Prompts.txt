@@ -1,0 +1,9 @@
+jamesdanielmarrsritchey: Define "actually" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "actually" is an adverb used to indicate that something is the case, in fact or in reality. For example, "I thought he was in the office, but he's actually working from home today."
+
+In a business context, "actually" is often used to correct a misunderstanding or to emphasize a point. For example, in a meeting, one might say, "Actually, our sales increased by 20% last quarter, not 10%."
+
+In a programming context, "actually" is often used in a similar way to the business context, to correct a misunderstanding or to emphasize a point. For example, a developer might say, "Actually, that function returns a boolean, not an integer."
+
+The term "actually" comes from the Latin word "actualis," which means "active or practical." It has been used in English since the late 14th century. Over time, its usage has evolved and it is now commonly used to correct a misunderstanding or to emphasize a point.
