@@ -1,0 +1,5 @@
+In a general sense, "across" is a preposition or adverb that means from one side to the other, or in a crosswise direction. For example, "I walked across the street."
+
+In a business context, "across" often refers to something that is applicable or affects all parts of the business. For example, "We need to implement this change across all departments."
+
+In a programming context, "across" can refer to an operation or effect that applies to a range of elements in a data structure or a set of objects. For example, "This function iterates across the array."

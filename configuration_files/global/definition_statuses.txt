@@ -1,0 +1,9 @@
+Name: Definition Statuses
+Description: This configuration file defines the statuses of definitions.
+Content:
+<value>
+Draft: The definition was created using AI prompts, but has not yet been checked for accuracy by a human being.
+Re-Work: The definition has been modified using AI prompts, but has not yet been checked for accuracy by a human being.
+Verified: The definition has been checked for accuracy by a human being.
+Update: The definition has been improved by a human being. AI may also have been used in the process, but the content has been checked for accuracy.
+</value>

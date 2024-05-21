@@ -1,0 +1,25 @@
+jamesdanielmarrsritchey: Define "accept" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "accept" means to agree to receive or undertake something that has been offered. For example, if someone offers you a gift, and you take it, you have accepted the gift.
+
+In a business context, "accept" often refers to the agreement to a proposal, contract, or terms of a deal. For example, a company might accept a bid from a contractor to perform a certain service.
+
+In a programming context, "accept" is often used in the context of network programming where a server "accepts" a connection from a client. For example, in Python's socket programming, the `socket.accept()` method is used to accept a connection.
+
+```python
+import socket
+
+s = socket.socket()
+s.bind(('localhost', 12345))
+s.listen(5)
+
+while True:
+    c, addr = s.accept()
+    print('Got connection from', addr)
+    c.send('Thank you for connecting')
+    c.close()
+```
+
+In this example, the server is set up to accept connections from clients on localhost port 12345.
+
+The term "accept" comes from the Latin "acceptare", which means "to take willingly". It has been used in English since the 14th century. In the context of programming, it has likely been used since the advent of network programming, which began in the 1960s with the development of the ARPANET, the precursor to the modern internet.

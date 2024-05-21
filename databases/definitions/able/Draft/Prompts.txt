@@ -1,0 +1,29 @@
+jamesdanielmarrsritchey: Define "able" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "able" refers to the capacity or capability to perform a specific task or action. For example, a person might be able to lift a certain weight, or a machine might be able to produce a certain number of items per hour.
+
+In a business context, "able" often refers to the capabilities of a company or individual within that company. For example, a company might be able to deliver a product within a certain timeframe, or an employee might be able to complete a certain number of tasks in a day. This can also refer to the ability to adapt to changes in the market or industry.
+
+In a programming context, "able" often refers to the capabilities of a piece of software or hardware. For example, a software application might be able to process a certain number of transactions per second, or a hardware device might be able to store a certain amount of data.
+
+The term "able" comes from the Old English word "gelæfan," which means "to allow, consent, agree; to have power or ability to; to enable, empower." It has been used in the English language since at least the 14th century.
+
+Examples:
+- General: "I am able to run a mile in under 10 minutes."
+- Business: "Our company is able to deliver the product within two weeks."
+- Programming: "The software is able to handle 1,000 users simultaneously."
+
+jamesdanielmarrsritchey: remove markup
+
+GitHub Copilot: In a general sense, "able" refers to the capacity or capability to perform a specific task or action. For example, a person might be able to lift a certain weight, or a machine might be able to produce a certain number of items per hour.
+
+In a business context, "able" often refers to the capabilities of a company or individual within that company. For example, a company might be able to deliver a product within a certain timeframe, or an employee might be able to complete a certain number of tasks in a day. This can also refer to the ability to adapt to changes in the market or industry.
+
+In a programming context, "able" often refers to the capabilities of a piece of software or hardware. For example, a software application might be able to process a certain number of transactions per second, or a hardware device might be able to store a certain amount of data.
+
+The term "able" comes from the Old English word "gelæfan," which means "to allow, consent, agree; to have power or ability to; to enable, empower." It has been used in the English language since at least the 14th century.
+
+Examples:
+- General: "I am able to run a mile in under 10 minutes."
+- Business: "Our company is able to deliver the product within two weeks."
+- Programming: "The software is able to handle 1,000 users simultaneously."
