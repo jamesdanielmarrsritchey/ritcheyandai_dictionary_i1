@@ -1,0 +1,15 @@
+jamesdanielmarrsritchey: Define "any" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "any" is a term used to refer to one, some, or all things or people of a certain type, without specifying exactly which. For example, "You can choose any color you like."
+
+In a business context, "any" is often used in contracts or agreements to cover all possible scenarios or items within a certain category. For example, "This agreement applies to any products purchased from our company."
+
+In a programming context, "any" is a type used in some programming languages, such as TypeScript, to represent any possible value. It's a way of bypassing the type system for variables where the type isn't known. For example:
+
+```typescript
+let notSure: any = 4;
+notSure = "maybe a string instead";
+notSure = false; // okay, definitely a boolean
+```
+
+The term "any" has been in use in the English language since Old English, and its use in programming languages is a relatively recent development, with the advent of statically typed languages that also need to accommodate dynamic typing in some scenarios. The use of "any" in this context can be seen as a way of bridging the gap between static and dynamic typing.

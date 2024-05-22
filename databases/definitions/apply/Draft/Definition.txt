@@ -1,0 +1,15 @@
+In a general sense, "apply" means to make use of something for a particular purpose. For example, one might apply pressure to a wound to stop bleeding.
+
+In a business context, "apply" often refers to the process of using a particular method, principle, or procedure to achieve a specific outcome. For example, a business might apply a new marketing strategy to increase sales.
+
+In a programming context, "apply" is a function that calls another function with a given 'this' value and arguments provided as an array (or an array-like object). For example, in JavaScript, the apply() method is used to call a function with a given 'this' value and arguments provided as an array.
+
+```javascript
+function greet(firstName, lastName) {
+  console.log(`Hello, ${firstName} ${lastName}`);
+}
+
+greet.apply(null, ['John', 'Doe']); // Outputs: Hello, John Doe
+```
+
+The term "apply" has been used in the English language since the 14th century, derived from the Old French "aplier" which means to attach or join. Its use in a programming context began with the advent of functional programming languages, where functions are first-class citizens and can be passed around like any other variable. This concept was first introduced in the Lisp programming language in the late 1950s.

@@ -1,0 +1,9 @@
+jamesdanielmarrsritchey: Define "American" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "American" refers to anything related to the United States of America. This could be its citizens, culture, geography, or history. For example, an American citizen is someone who holds citizenship in the United States.
+
+In a business context, "American" often refers to businesses that are based in, operate in, or were founded in the United States. For example, American Airlines is a major U.S. airline. The term can also refer to the American market or American business practices. For instance, a business might discuss expanding into the American market or adopting American management styles.
+
+In a programming context, "American" is not a standard term with a specific meaning. However, it could potentially refer to programming practices or technologies that originated in the United States. For example, Silicon Valley in California, USA, is known as a major hub for tech innovation, and many significant programming languages and technologies have been developed there.
+
+The term "American" originates from the name of the explorer Amerigo Vespucci, who was one of the first to suggest that the lands discovered by Christopher Columbus were part of a separate continent, distinct from Asia. This new continent was eventually named "America" in his honor.

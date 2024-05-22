@@ -1,0 +1,9 @@
+jamesdanielmarrsritchey: Define "among" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "among" is a preposition that indicates inclusion, membership, or a relationship between the members of a group. For example, "I distributed the candies among the children."
+
+In a business context, "among" can be used to describe a situation where something is shared or happens between three or more parties. For example, "The profits will be divided among the three founders."
+
+In a programming context, "among" doesn't have a specific definition, but it can be used in comments or documentation to describe relationships between elements. For example, "This function chooses the best server among the available ones."
+
+The term "among" has been in use since Old English, derived from the Old English word "gemong", meaning "crowd" or "company". It has been used in literature and language for centuries, and its use in business and programming contexts is a natural extension of its general meaning.
