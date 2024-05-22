@@ -1,8 +1,3 @@
-arm
-around
-arrive
-art
-article
 artist
 as
 ask

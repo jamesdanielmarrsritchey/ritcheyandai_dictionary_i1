@@ -1,0 +1,9 @@
+1. General Sense: An "arm" is a part of the human body that extends from the shoulder to the hand. It is used for a variety of physical tasks and activities.
+
+2. Business Context: In business, an "arm" often refers to a division or a subsidiary of a larger company that operates semi-independently. For example, Google's parent company, Alphabet, has several arms, including Google itself, YouTube, and Waymo. Each arm focuses on a different aspect of the company's overall business strategy.
+
+3. Programming Context: In programming, ARM (Advanced RISC Machine) is a family of reduced instruction set computing (RISC) architectures for computer processors, configured for various environments. ARM processors are extensively used in consumer electronic devices such as smartphones, tablets, multimedia players and other mobile devices, such as wearables. ARM Ltd., the company that designs the architecture, was founded in 1990.
+
+Example of ARM in programming can be seen in the development of applications for devices that use ARM architecture. For instance, developers creating apps for the iPhone need to consider that the device uses an ARM processor.
+
+Brief History: ARM Ltd. was founded in November 1990 as Advanced RISC Machines Ltd and structured as a joint venture between Acorn Computers, Apple Computer (now Apple Inc.) and VLSI Technology. The new company intended to further the development of the Acorn RISC Machine microprocessor, which was originally used in the Acorn Archimedes and had been selected by Apple for its Newton project.

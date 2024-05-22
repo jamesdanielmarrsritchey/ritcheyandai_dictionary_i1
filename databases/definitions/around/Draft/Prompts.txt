@@ -1,0 +1,25 @@
+jamesdanielmarrsritchey: Define "around" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "around" is a preposition or adverb that refers to a position or movement in a circular direction, or in the vicinity or proximity of something. For example, "She walked around the park."
+
+In a business context, "around" often refers to the idea of dealing with or addressing something. For example, "We need to build a strategy around our new product launch." It can also refer to the time frame in which something happens, such as "Our fiscal year starts around April."
+
+In a programming context, "around" often refers to wrapping or encapsulating something. For example, in a decorator pattern, one function wraps around another to extend or modify its behavior without changing its source code. Here's a Python example:
+
+```python
+def decorator_function(original_function):
+    def wrapper_function():
+        print("Wrapper executed this before {}".format(original_function.__name__))
+        return original_function()
+    return wrapper_function
+
+@decorator_function
+def display():
+    print("Display function ran")
+
+display()
+```
+
+In this example, `decorator_function` wraps around `display`, adding behavior before the `display` function is executed.
+
+The term "around" comes from the Old English term "on round" and has been used in the English language since at least the 9th century. Its use in a business context likely evolved with the development of complex organizational structures and strategies. In programming, its use likely began with the advent of higher-order functions and object-oriented programming, which allowed for the encapsulation and modification of code behavior.

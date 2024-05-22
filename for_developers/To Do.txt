@@ -3,4 +3,3 @@
 - Create a PHP function for converting the database of terms to a PDF document.
 - Add more words.
 - Further develop words already in the database.
-- Add examples of the terms being used in sentences, and their history.
