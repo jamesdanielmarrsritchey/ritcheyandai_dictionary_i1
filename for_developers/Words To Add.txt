@@ -1,7 +1,3 @@
-artist
-as
-ask
-assume
 at
 attack
 attention

@@ -1,0 +1,19 @@
+jamesdanielmarrsritchey: Define "assume" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, "assume" means to accept something to be true without proof. For example, one might assume that it will rain because the sky is cloudy.
+
+In a business context, "assume" often refers to taking on responsibilities or roles. For example, a new CEO might assume the duties of the previous CEO. It can also refer to taking on liabilities in a business transaction. For example, in an acquisition, the acquiring company may assume the debts of the company being acquired.
+
+In a programming context, "assume" often refers to making an assumption about the state or behavior of a system. For example, a programmer might assume that a certain variable will always be an integer, or that a function will always return a positive value. These assumptions can simplify the design and implementation of a program, but they can also lead to bugs if the assumptions turn out to be incorrect.
+
+The term "assume" comes from the Latin word "assumere", which means "to take up". It has been used in English since the 14th century.
+
+Here are some examples:
+
+General: "I assume you are coming to the party."
+
+Business: "The company assumed all the liabilities of the bankrupt firm."
+
+Programming: "Let's assume the input will always be a non-null string."
+
+Please note that in all contexts, making assumptions can lead to unexpected outcomes if the assumptions are not validated or if they turn out to be incorrect.
