@@ -1,0 +1,5 @@
+In a general sense, an "attorney" refers to a person appointed to act for another in business or legal matters. They are typically lawyers who represent clients in criminal and civil litigation and other legal proceedings.
+
+In a business context, an attorney (often referred to as corporate or business attorney) advises businesses on their legal rights and responsibilities. This can involve a wide range of issues, from contracts, property interests, tax compliance, to intellectual property rights and more. For example, a business might consult an attorney to help them navigate the legalities of starting a new venture, or to handle a dispute with another company.
+
+In a programming context, the term "attorney" doesn't have a specific meaning. However, in the broader context of software and technology, legal professionals or attorneys play a crucial role in areas like software licensing, open source compliance, data privacy and protection, intellectual property rights, etc. For instance, a software company might have attorneys to ensure their software patents are in order, or to handle any legal issues that arise from the use of third-party libraries or software.

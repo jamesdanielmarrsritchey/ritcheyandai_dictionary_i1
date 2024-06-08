@@ -1,9 +1,9 @@
 Name: Ritchey&AI Dictionary
 Implementation: 1
-Version: 5
-Long Identifier: Ritchey&AI Dictionary i1 v5
-Short Identifier: R&AIDi1v5
-Description: An EXPERIMENTAL dictionary of terms, designed to be used as a basis for generating human-friendly documents in other file formats.
+Version: 6
+Long Identifier: Ritchey&AI Dictionary i1 v6
+Short Identifier: R&AIDi1v6
+Description: A dictionary of terms, as a flat-file database, designed to be used as a basis for generating human-friendly documents in other file formats. Currently it only contains a few terms.
 History:
  - Project started May 21, 2024.
  - Version 1 completed May 21, 2024.
@@ -11,8 +11,9 @@ History:
  - Version 3 completed May 21, 2024.
  - Version 4 completed May 22, 2024.
  - Version 5 completed June 1, 2024.
+ - Version 6 completed June 8, 2024.
 Author: James Daniel Marrs Ritchey
-Licensing: All Rights Reserved.
+Licensing: Ritchey Permissive License v16
 Notes:
  - This project was developed in part by using the tool GitHub Copilot Business.
  - Terms are initially defined using artificial intelligence (AI), and are later vetted by a human. Check the status of a term to see where it's at in the development process. Currently all terms are in the draft phase, which means they have not been reviewed for accuracy by a person yet. Be aware that AIs can provide content that isn't correct.

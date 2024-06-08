@@ -1,0 +1,9 @@
+jamesdanielmarrsritchey: Define "attack" in a general sense of the term, within a business context, and lastly within a programming context. Provide examples, and a brief history of the term.
+
+GitHub Copilot: In a general sense, an "attack" refers to an aggressive action against someone or something. It could be physical, verbal, or psychological. For example, a person might attack another person in a fight, or a country might attack another country in a war.
+
+In a business context, an "attack" often refers to competitive strategies aimed at gaining market share from competitors. This could involve price cuts, aggressive marketing campaigns, or the introduction of new products. For example, a company might launch an "attack" on a competitor by releasing a new product that directly competes with one of the competitor's key products.
+
+In a programming context, an "attack" usually refers to a malicious action aimed at exploiting vulnerabilities in a system or network. This could involve actions like injecting malicious code, launching a denial of service attack, or exploiting a security vulnerability to gain unauthorized access. For example, a hacker might launch an "attack" on a website by exploiting a vulnerability in the website's code to gain access to sensitive data.
+
+The term "attack" has been used in English since at least the 16th century, originally derived from the French word "attaque". In the context of business and programming, the use of the term "attack" to refer to aggressive competitive actions or malicious actions against a system or network has become common since the mid-20th century, with the rise of competitive business strategies and the advent of computer technology.

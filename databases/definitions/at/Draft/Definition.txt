@@ -1,0 +1,23 @@
+In a general sense, "at" is a preposition in English language used to denote a point or place occupied in space, an event, or a particular point in time. For example, "I am at the park."
+
+In a business context, "at" could be used to denote a specific location or time. For example, "The meeting is at 10 AM" or "The conference is at the Hilton Hotel." It can also be used in financial contexts to denote a specific price point, such as "The stock is valued at $100 per share."
+
+In a programming context, "at" is often used in different ways depending on the language. In Python, `@` is used as a decorator to add functionality to an existing code. For example:
+
+```python
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+```
+
+In this example, `@app.route('/')` is a decorator that tells Flask what URL should trigger the function `hello_world()`.
+
+In JavaScript, `@` is used to denote a decorator in TypeScript, or to import specific modules in certain JavaScript frameworks. For example, in Angular:
+
+```javascript
+import { Component } from '@angular/core';
+```
+
+In this example, `@angular/core` is a module in Angular that contains important Angular decorators like `Component`.
+
+The term "at" has been in use since Old English, and its use in programming languages is relatively recent, with its introduction in various languages happening in the late 20th and early 21st centuries.
